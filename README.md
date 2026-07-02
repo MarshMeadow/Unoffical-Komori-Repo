@@ -9,7 +9,7 @@
 
 ## 🔗 Links
 
-- 💬 [Join Discord](https://komori.neocities.org/discord)
+- 💬 [Join Discord](https://discord.gg/kCdCfRdq3Q)
 - 🌐 **Non-Official Komori Web:** ❌ OFFLINE  
 - 📰 Latest News: [Release v0.12](https://github.com/MarshMeadow/Komori/releases/tag/v0.12)
 - 🧵 [Announcements](https://github.com/MarshMeadow/Komori/discussions/categories/announcements)
