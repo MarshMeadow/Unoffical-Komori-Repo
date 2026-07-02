@@ -10,10 +10,10 @@
 ## 🔗 Links
 
 - 💬 [Join Discord](https://komori.neocities.org/discord)
-- 🌐 [Non-Official Komori Web](https://komori.neocities.org/)
+- 🌐 **Non-Official Komori Web:** ❌ OFFLINE  
 - 📰 Latest News: [Release v0.12](https://github.com/MarshMeadow/Komori/releases/tag/v0.12)
 - 🧵 [Announcements](https://github.com/MarshMeadow/Komori/discussions/categories/announcements)
-- 🐛 Check Issues for bug reports & community help
+- 🐛 Issues & bug reports are still open for community discussion
 
 ---
 
@@ -21,14 +21,84 @@
 
 ### 📥 Downloads
 
-1. 🟢 Google Play (Recommended):  
+1. 🟢 Google Play (Official / Recommended):  
    https://play.google.com/store/apps/details?id=app.komori  
 
-2. 🌐 Latest Web APK (Updated):  
+2. 🌐 Latest Web APK: ❌ OFFLINE  
    https://komori.neocities.org/apk  
 
-3. ⚠️ Legacy APK (v0.11 - Not maintained):  
+3. 💾 Legacy GitHub APK (v0.11 - Not maintained):  
    https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk  
+
+---
+
+## 🌐 Komori Sources (Official / Unofficial / Archive)
+
+> ⚠️ These links may go offline or become outdated.  
+> This is a reference list only.
+
+---
+
+### 🟢 Official Sources
+
+- 📱 Google Play Store (Official App):  
+  https://play.google.com/store/apps/details?id=app.komori  
+
+- 💬 Discord Community:  
+  https://komori.neocities.org/discord  
+
+---
+
+### 🟡 Non-Official / Community Sources
+
+- 🌐 Non-Official Komori Web: ❌ OFFLINE  
+  https://komori.neocities.org/
+
+- 📥 Web APK Download: ❌ OFFLINE  
+  https://komori.neocities.org/apk  
+
+- 💾 Backup / Archive Page: ❌ OFFLINE  
+  https://komori.neocities.org/back-up  
+
+---
+
+### 🟠 Legacy / GitHub Sources
+
+- 🧾 GitHub Releases (v0.11 legacy APK):  
+  https://github.com/MarshMeadow/Komori/releases/download/v0.11/0.11.apk  
+
+- 📰 GitHub Release Notes:  
+  https://github.com/MarshMeadow/Komori/releases/tag/v0.12  
+
+- 🧵 Announcements:  
+  https://github.com/MarshMeadow/Komori/discussions/categories/announcements  
+
+---
+
+### 🔵 APK Mirrors / External Archives
+
+> Not official — may be outdated or unsafe.
+
+- APKPure Archive Listing:  
+  https://apkpure.net/komori-track-discover-anime/app.komori  
+
+- AppBrain Listing:  
+  https://www.appbrain.com/app/komori-track-discover-anime/app.komori  
+
+---
+
+### 🟣 Alternative AniList Apps
+
+> If Komori is unavailable, these may serve similar purposes:
+
+- AniHyou (AniList client):  
+  https://www.openapk.net/anihyou-anilist-client/com.axiel7.anihyou/  
+
+- Anichive (AniList client):  
+  https://apkpure.net/anichive-for-anilist/com.thekeeperofpie.anichive  
+
+- Other AniList clients (varies by platform):  
+  Otraku / AL-chan / AniTrend (availability may differ)
 
 ---
 
@@ -36,29 +106,22 @@
 
 Komori is an Android application designed to help you **track, discover, and enjoy anime** using the AniList API.
 
-### ✨ Key Features
+### ✨ Features
 
-- 🔍 Discover anime you’ll love
-- 📊 Track your watching progress
+- 🔍 Discover anime easily
+- 📊 Track watch progress
 - 🔐 Login with AniList account
-- 🔔 Get episode release notifications
-- 💬 Join discussions & share opinions
-- ⭐ Personalized anime experience
+- 🔔 Episode notifications
+- 💬 Community discussions
+- ⭐ Personalized recommendations
 - ⚡ Powered by AniList API
 
 ---
 
 ## 🖼️ Screenshots
 
-📸 Images:  
+📸 Mega Folder:  
 https://mega.nz/folder/4D8jFKjZ#dhCKbPcad_uwGv6gU1ApnA/folder/EO0wGQaS  
-
----
-
-## 💾 Backup / Archive
-
-- 🔄 Latest Backup Page:  
-  https://komori.neocities.org/back-up  
 
 ---
 
@@ -67,27 +130,14 @@ https://mega.nz/folder/4D8jFKjZ#dhCKbPcad_uwGv6gU1ApnA/folder/EO0wGQaS
 - 🧪 VirusTotal:  
   https://www.virustotal.com/gui/file/607c430e04aa73abc54f3e9d35fd43015d25e708ffbb47dec3ff458de9ced485  
 
-- 🔬 Kaspersky Scan:  
+- 🔬 Kaspersky OpenTIP:  
   https://opentip.kaspersky.com/607C430E04AA73ABC54F3E9D35FD43015D25E708FFBB47DEC3FF458DE9CED485/results?tab=upload  
-
----
-
-## 📌 App Description
-
-- Android application Komori: track & discover anime developed by Komori App.
-- Discover something you like!
-- Powered by AniList API for anime data
-- Track your progress easily
-- Stay updated with new episodes
-- Join community discussions
 
 ---
 
 ## 📌 Proof to Post
 
 > (They are fine with it all)
-
-Proof screenshots:
 
 ![image](https://github.com/MarshMeadow/Komori/assets/88599122/53dba3f9-9536-4fef-adf5-ca4c03b26aa0)
 
@@ -97,19 +147,18 @@ Proof screenshots:
 
 ## 📰 Important Notice
 
-⚠️ **Project Status Update**
+⚠️ **Repository Status**
 
-We will no longer actively maintain or support this GitHub repository.
+- This is an **unofficial GitHub page**
+- The repository is no longer actively maintained
+- It remains online for archive / community reference
 
-- The repository will remain online for archival purposes
-- Issues and discussions may still be available
-- Downloads may still work but are not guaranteed to stay updated
+### 📦 Download Status
 
-### 📦 Active Download Source
-
-- https://komori.neocities.org/apk
-
-This link may remain updated when possible, but may not always reflect the latest version.
+- Google Play: Official source (may vary by region)
+- Web APK: ❌ OFFLINE
+- Backup Page: ❌ OFFLINE
+- GitHub APK: Legacy only (v0.11)
 
 ---
 
@@ -122,5 +171,3 @@ Thank you to everyone who:
 - 🐛 Reported bugs
 - 💬 Participated in discussions
 - ❤️ Supported the project
-
-Your support means a lot.
