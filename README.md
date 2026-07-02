@@ -1,6 +1,8 @@
 # 📱 Komori (Unofficial GitHub Page)
 
-![small-banner-modified](https://github.com/MarshMeadow/Komori/assets/88599122/48985b6c-a18a-483b-899c-58246d58e017)
+<p align="center">
+  <img src="https://github.com/MarshMeadow/Komori/assets/88599122/48985b6c-a18a-483b-899c-58246d58e017" width="500"/>
+</p>
 
 > An Android app that uses **AniList** for anime tracking & discovery.  
 > By: **AN**
