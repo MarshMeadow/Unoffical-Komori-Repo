@@ -45,7 +45,7 @@
   https://play.google.com/store/apps/details?id=app.komori  
 
 - 💬 Discord Community:  
-  https://komori.neocities.org/discord  
+  https://discord.gg/kCdCfRdq3Q 
 
 ---
 
